@@ -76,7 +76,6 @@ This project demonstrates the development of a **robust and interactive Power BI
 ## 📂 Additional Notes  
 - ✅ This project **supports dynamic updates** and can **adapt to future IPL seasons seamlessly**.  
 - ✅ It incorporates **reusable components** for **scalability and efficiency**.  
-- ✅ The dashboard was **enhanced based on user-driven feedback** for **improved usability**.  
 
 ---
 
